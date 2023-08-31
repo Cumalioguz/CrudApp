@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827478063042",
+    "project_id": "lifemirror-eebee",
+    "storage_bucket": "lifemirror-eebee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827478063042:android:ab7b3f2373afcd5db3c85b",
+        "android_client_info": {
+          "package_name": "com.lifemirror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827478063042-muadp7tfdlbgpeheh7n27d27tr0o6991.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqbn3CIuNLIVL0IO1uQfFIbq8f3n394JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827478063042-muadp7tfdlbgpeheh7n27d27tr0o6991.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
